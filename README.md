@@ -4,3 +4,5 @@ CELESTIO is a web-based interactive 3D orrery,my team and I developed as part of
 
 
 As part of the overall project, I also contributed in developing a Space Battle Game, a web-based arcade mini-game integrated into the platform for recreational engagement.This game provides a fun break for users while staying within the theme of space and exploration.
+
+To view the Website click on [CELESTIO🌐](https://yogeshnagaraju.github.io/CELESTIO/)
