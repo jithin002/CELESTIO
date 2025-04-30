@@ -1,0 +1,34 @@
+body, html {
+    background-color: black;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Prevent scrolling if content overflows */
+}
+
+.container {
+    position: relative;
+    width:105rem;
+    height: 65rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spline-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0; /* Put Spline in the background */
+}
+
+spline-viewer {
+    width: 100%;
+    height: 100%;
+}
+
+
